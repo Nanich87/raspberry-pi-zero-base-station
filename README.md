@@ -77,6 +77,14 @@
 
 `sudo make install`
 
-## Run
+## Start
 
-`python /home/pi/basestation.py`
+Press the button once. The LED will start blinking.
+
+## Stop
+
+Press the button again. The LED will stop blinking.
+
+## Shutdown
+
+Hold the button for at least 2-3 seconds and the Pi will turn off.
