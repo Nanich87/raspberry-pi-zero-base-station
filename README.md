@@ -20,6 +20,17 @@
 
 ### Connectors/Wires
 
+## Wiring
+
+- Raspberry Pi GPIO14 (Pin #08) -> u-blox ZED-F9P RX
+- Raspberry Pi GPIO15 (Pin #10) -> u-blox ZED-F9P TX
+- Raspberry Pi DC Power 5v (Pin #04) -> u-blox ZED-F9P +5v
+- Raspberry Pi Ground (Pin #06) -> u-blox ZED-F9P Ground
+- Raspberry Pi GPIO21 (Pin #40) -> Button
+- Raspberry Pi Ground (Pin #39) -> Button
+- Raspberry Pi GPIO20 (Pin #38) -> LED+
+- Raspberry Pi Ground (Pin #34) -> LED-
+
 ## OS
 
 `2021-05-07-raspios-buster-armhf-lite.img`
