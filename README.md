@@ -61,3 +61,7 @@
 `sudo make`
 
 `sudo make install`
+
+## Run
+
+`python /home/pi/basestation.py`
