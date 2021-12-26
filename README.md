@@ -1,24 +1,46 @@
 # Raspberry Pi Zero Base Station
 
-## Requerements
+## Hardware Requirements
+
+### Raspberry Pi Zero
+
+### u-blox ZED-F9P
+
+### Button
+
+### LED
+
+### Connectors/Wires
+
+## OS
+
+`2021-05-07-raspios-buster-armhf-lite.img`
+
+## Software Requerements
+
+`sudo apt update`
+
+`sudo apt upgrade`
+
+### Libs
+
+`sudo apt install git`
+
+`sudo apt install build-essential`
+
+`sudo apt install automake`
+
+`sudo apt install checkinstall`
+
+`sudo apt install liblapack3`
+
+`sudo apt install libblas3`
+
+`sudo apt install gfortran`
 
 ### RTKLIB
 
 `git clone https://github.com/rtklibexplorer/RTKLIB.git`
-
-### Libs
-
-`sudo apt-get install build-essential`
-
-`sudo apt-get install automake`
-
-`sudo apt-get install checkinstall`
-
-`sudo apt-get install liblapack3`
-
-`sudo apt-get install libblas3`
-
-`sudo apt-get install gfortran`
 
 ## Build
 
