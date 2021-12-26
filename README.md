@@ -8,6 +8,8 @@
 
 ![Raspberry Pi Zero Pinout](https://raw.githubusercontent.com/Nanich87/raspberry-pi-zero-base-station/main/rpi-gpio.png "Raspberry Pi Zero Pinout")
 
+### MicroSD Card
+
 ### u-blox ZED-F9P
 
 ![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB](https://raw.githubusercontent.com/Nanich87/raspberry-pi-zero-base-station/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB")
