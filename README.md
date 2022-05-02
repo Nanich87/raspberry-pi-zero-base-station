@@ -6,8 +6,6 @@
 
 ![Raspberry Pi Zero](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/raspberry-pi-zero.avif "Raspberry Pi Zero")
 
-![Raspberry Pi Zero Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/rpi-gpio.png "Raspberry Pi Zero Pinout")
-
 ### MicroSD Card
 
 ### u-blox ZED-F9P
@@ -29,6 +27,8 @@
 ### Connectors/Wires
 
 ## Wiring
+
+![Raspberry Pi Zero Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/rpi-gpio.png "Raspberry Pi Zero Pinout")
 
 - Raspberry Pi GPIO14 (Pin #08) -> u-blox ZED-F9P RX
 - Raspberry Pi GPIO15 (Pin #10) -> u-blox ZED-F9P TX
