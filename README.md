@@ -37,6 +37,16 @@
 - Raspberry Pi GPIO20 (Pin #38) -> LED+
 - Raspberry Pi Ground (Pin #34) -> LED-
 
+## STL
+
+### Part 1
+
+![STL Part 1](https://raw.githubusercontent.com/Nanich87/raspberry-pi-zero-base-station/main/3d-model-part-1.png "STL Part 1")
+
+### Part 2
+
+![STL Part 2](https://raw.githubusercontent.com/Nanich87/raspberry-pi-zero-base-station/main/3d-model-part-2.png "STL Part 2")
+
 ## OS
 
 `2021-05-07-raspios-buster-armhf-lite.img`
