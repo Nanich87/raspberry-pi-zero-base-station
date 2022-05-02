@@ -4,7 +4,7 @@
 
 ### Raspberry Pi Zero
 
-![Raspberry Pi Zero](hhttps://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/raspberry-pi-zero.avif "Raspberry Pi Zero")
+![Raspberry Pi Zero](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/raspberry-pi-zero.avif "Raspberry Pi Zero")
 
 ![Raspberry Pi Zero Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/rpi-gpio.png "Raspberry Pi Zero Pinout")
 
