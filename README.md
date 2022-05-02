@@ -4,9 +4,9 @@
 
 ### Raspberry Pi Zero
 
-![Raspberry Pi Zero](https://raw.githubusercontent.com/Nanich87/raspberry-pi-zero-base-station/main/raspberry-pi-zero.avif "Raspberry Pi Zero")
+![Raspberry Pi Zero](hhttps://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/raspberry-pi-zero.avif "Raspberry Pi Zero")
 
-![Raspberry Pi Zero Pinout](https://raw.githubusercontent.com/Nanich87/raspberry-pi-zero-base-station/main/rpi-gpio.png "Raspberry Pi Zero Pinout")
+![Raspberry Pi Zero Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/rpi-gpio.png "Raspberry Pi Zero Pinout")
 
 ### MicroSD Card
 
@@ -43,11 +43,11 @@
 
 ### Part 1
 
-![STL Part 1](https://raw.githubusercontent.com/Nanich87/raspberry-pi-zero-base-station/main/3d-model-part-1.png "STL Part 1")
+![STL Part 1](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/3d-model-part-1.png "STL Part 1")
 
 ### Part 2
 
-![STL Part 2](https://raw.githubusercontent.com/Nanich87/raspberry-pi-zero-base-station/main/3d-model-part-2.png "STL Part 2")
+![STL Part 2](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/3d-model-part-2.png "STL Part 2")
 
 ## OS
 
