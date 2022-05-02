@@ -12,11 +12,13 @@
 
 ### u-blox ZED-F9P
 
-![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB](https://raw.githubusercontent.com/Nanich87/raspberry-pi-zero-base-station/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-top.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB")
+https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-bottom.jpg
 
-![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB](https://raw.githubusercontent.com/Nanich87/raspberry-pi-zero-base-station/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-bottom.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB")
+![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-top.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB")
 
-![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout](https://raw.githubusercontent.com/Nanich87/raspberry-pi-zero-base-station/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-pinout.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout")
+![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-bottom.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB")
+
+![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-pinout.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout")
 
 ### GNSS Antenna
 
