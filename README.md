@@ -14,8 +14,6 @@
 
 ![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-bottom.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB")
 
-![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-pinout.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout")
-
 ### GNSS Antenna
 
 ![L1 L2 GPS, G1 G2 GLONASS B1 B2 B3 BDS Galileo E1 E5b 40dB Antenna FOR RTK Base station. Full set with cable and stand](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/antenna.jpg "L1 L2 GPS, G1 G2 GLONASS B1 B2 B3 BDS Galileo E1 E5b 40dB Antenna FOR RTK Base station. Full set with cable and stand")
@@ -29,6 +27,8 @@
 ## Wiring
 
 ![Raspberry Pi Zero Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/rpi-gpio.png "Raspberry Pi Zero Pinout")
+
+![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-pinout.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout")
 
 - Raspberry Pi GPIO14 (Pin #08) -> u-blox ZED-F9P RX
 - Raspberry Pi GPIO15 (Pin #10) -> u-blox ZED-F9P TX
@@ -101,4 +101,4 @@ Press the button again. The LED will stop blinking.
 
 ## Shutdown
 
-Hold the button for at least 2-3 seconds and the Pi will turn off.
+Hold the button for at least 2-3 seconds and the Pi will turn off
