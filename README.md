@@ -49,13 +49,13 @@
 
 ### 3D Model / STL Files
 
-#### Part 1 / Bottom
+#### Top
 
-![STL Part 1](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/3d-model/3d-model-part-1.png "STL Part 1")
+![Top](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/enclosure/top.png "Top")
 
-#### Part 2 / Top
+#### Bottom
 
-![STL Part 2](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/3d-model/3d-model-part-2.png "STL Part 2")
+![Bottom](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/enclosure/bottom.png "Bottom")
 
 ## OS
 
