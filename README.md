@@ -28,7 +28,11 @@
 
 ## Wiring
 
+### Raspberry Pi Zero Pinout
+
 ![Raspberry Pi Zero Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/raspberry-pi-zero/rpi-gpio.png "Raspberry Pi Zero Pinout")
+
+### u-blox ZED-F9P Pinout
 
 ![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/gnss/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-pinout.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout")
 
