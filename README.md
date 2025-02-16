@@ -4,19 +4,21 @@
 
 ### Raspberry Pi Zero
 
-![Raspberry Pi Zero](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/raspberry-pi-zero.avif "Raspberry Pi Zero")
+![Raspberry Pi Zero](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/raspberry-pi-zero/raspberry-pi-zero.avif "Raspberry Pi Zero")
 
 ### MicroSD Card
 
-### u-blox ZED-F9P
+16GB or 32GB MicroSD Card
 
-![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-top.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB")
+### GNSS Receiver u-blox ZED-F9P
 
-![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-bottom.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB")
+![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/gnss/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-top.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB")
+
+![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/gnss/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-bottom.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB")
 
 ### GNSS Antenna
 
-![L1 L2 GPS, G1 G2 GLONASS B1 B2 B3 BDS Galileo E1 E5b 40dB Antenna FOR RTK Base station. Full set with cable and stand](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/antenna.jpg "L1 L2 GPS, G1 G2 GLONASS B1 B2 B3 BDS Galileo E1 E5b 40dB Antenna FOR RTK Base station. Full set with cable and stand")
+![L1 L2 GPS, G1 G2 GLONASS B1 B2 B3 BDS Galileo E1 E5b 40dB Antenna FOR RTK Base station. Full set with cable and stand](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/gnss/antenna.jpg "L1 L2 GPS, G1 G2 GLONASS B1 B2 B3 BDS Galileo E1 E5b 40dB Antenna FOR RTK Base station. Full set with cable and stand")
 
 ### Button
 
@@ -26,9 +28,9 @@
 
 ## Wiring
 
-![Raspberry Pi Zero Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/rpi-gpio.png "Raspberry Pi Zero Pinout")
+![Raspberry Pi Zero Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/raspberry-pi-zero/rpi-gpio.png "Raspberry Pi Zero Pinout")
 
-![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-pinout.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout")
+![ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/gnss/ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover-pinout.jpg "ZED-F9P RTK InCase PIN GNSS receiver board with SMA and USB Pinout")
 
 - Raspberry Pi GPIO14 (Pin #08) -> u-blox ZED-F9P RX
 - Raspberry Pi GPIO15 (Pin #10) -> u-blox ZED-F9P TX
@@ -39,66 +41,82 @@
 - Raspberry Pi GPIO20 (Pin #38) -> LED+
 - Raspberry Pi Ground (Pin #34) -> LED-
 
-## STL
+## Enclosure
 
-### Part 1
+### 3D Model / STL Files
 
-![STL Part 1](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/3d-model-part-1.png "STL Part 1")
+#### Part 1 / Bottom
 
-### Part 2
+![STL Part 1](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/3d-model/3d-model-part-1.png "STL Part 1")
 
-![STL Part 2](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/3d-model-part-2.png "STL Part 2")
+#### Part 2 / Top
+
+![STL Part 2](https://github.com/Nanich87/raspberry-pi-zero-base-station/blob/main/images/3d-model/3d-model-part-2.png "STL Part 2")
 
 ## OS
 
-`2021-05-07-raspios-buster-armhf-lite.img`
+<pre>
+2021-05-07-raspios-buster-armhf-lite.img
+</pre>
 
 ## Software Requerements
 
-`sudo apt update`
+<pre>
+sudo apt update
 
-`sudo apt upgrade`
+sudo apt upgrade
+</pre>
 
-### Libs
+### Prerequisites
 
-`sudo apt install git`
+<pre>
+sudo apt install git
 
-`sudo apt install build-essential`
+sudo apt install build-essential
 
-`sudo apt install automake`
+sudo apt install automake
 
-`sudo apt install checkinstall`
+sudo apt install checkinstall
 
-`sudo apt install liblapack3`
+sudo apt install liblapack3
 
-`sudo apt install libblas3`
+sudo apt install libblas3
 
-`sudo apt install gfortran`
+sudo apt install gfortran
+</pre>
 
 ### RTKLIB
 
-`git clone https://github.com/rtklibexplorer/RTKLIB.git`
+#### Repository
 
-## Build
+<pre>
+git clone https://github.com/rtklibexplorer/RTKLIB.git
+</pre>
 
-`cd RTKLIB`
+#### Build
 
-`cd app`
+<pre>
+cd RTKLIB
 
-`cd consapp`
+cd app
 
-`sudo make`
+cd consapp
 
-`sudo make install`
+sudo make
 
-## Start
+sudo make install
+</pre>
+
+## Operating Instructions
+
+### Start
 
 Press the button once. The LED will start blinking.
 
-## Stop
+### Stop
 
 Press the button again. The LED will stop blinking.
 
-## Shutdown
+### Shutdown
 
-Hold the button for at least 2-3 seconds and the Pi will turn off
+Hold the button for at least 2-3 seconds and the Pi will turn off.
